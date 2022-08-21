@@ -1,3 +1,3 @@
 @echo off
-pip install selenium & pip install colorama & pip install subprocess
+pip install selenium & pip install colorama
 pause

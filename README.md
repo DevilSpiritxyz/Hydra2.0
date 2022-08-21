@@ -10,10 +10,9 @@ It is made for windows user.
 How to use
 
 First Install Python on Your Device.
-Open 'reqirement.bat' file in folder hydra2.0
 
-1. Open CMD
-2. cd <hydra 2.0 file location>
+1. Open 'reqirement.bat' file in folder hydra2.0
+2. Open 'win_hydra_2.0' file with python
 3. Type Instagram username
 4. Then, type Your wordlist location
 
